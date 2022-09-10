@@ -36,5 +36,5 @@ async def predict(ctx):
         """
                 em=discord.Embed(description=desc,color=color)
                 await ok.edit(embed=em)
-bot.run("MTAwMTE4MDEyODQ2MzgyMjk5OQ.Gaz9ho.TtV60vuzNRkM-F3ocSpFybqaCVQ8uVDi41--eA")
+bot.run("MTAxODE5NDAzOTE2Nzc4NzAxOA.GykTxI.-e4CMJsE4pBmmM2LECkF-ia2g4xsC25MsK3Xs0")
 
